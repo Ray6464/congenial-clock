@@ -1,5 +1,11 @@
 # congenial-clock
-A basic CLI utility to check time and date.
+A basic CLI utility to check time and date in ASCII art form.
+
+## Installation
+1. Use `npm i congenial-clock`.
+2. Go to `node_modules/congenial-clock`, this directory may be in your `home` directroy.
+3. Use `npm link` in this projcts directory.
+4. Use `showtime` from the Terminal to see it in action.
 
 # License
 (MIT license)
